@@ -41,7 +41,9 @@ The following use cases are implemented as a part of this web application:
 <br>
 
 ### Steps:
-1. First Create a new User by clicking on Sign Up.
-2. Go Back to Login Page and enter the credentials.
-3. Add New Task.
-4. Edit or Delete a created task.
+1. Deploy war file using Tomcat.
+2. Launch the URL: http://localhost:8080/online-todo-list-0.0.1-SNAPSHOT/
+31. First Create a new User by clicking on Sign Up.
+4. Go Back to Login Page and enter the credentials.
+5. Add New Task.
+6. Edit or Delete a created task.
